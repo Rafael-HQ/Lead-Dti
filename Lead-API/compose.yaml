@@ -1,0 +1,7 @@
+﻿services:
+  desafio-dti-lead:
+    image: desafio-dti-lead
+    build:
+      context: .
+      dockerfile: Desafio-Dti-Lead/Dockerfile
+
